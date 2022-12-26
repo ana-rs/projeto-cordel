@@ -70,7 +70,7 @@ section.normal {
 section.imagem {
     background-color: rgb(48, 47, 47);
     color: white;
-    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.61); /* inside = sombra para dentro */
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.61); /* inset = sombra para dentro */
     background-size: cover;
     background-attachment: fixed; /* efeito paralax */
 }
